@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/React-Movie-DB/static/css/main.fbfd1116.css",
+    "main.js": "/React-Movie-DB/static/js/main.2b3eacf2.js",
+    "static/media/1.jpg": "/React-Movie-DB/static/media/1.8745af3074be48955f0b.jpg",
+    "index.html": "/React-Movie-DB/index.html",
+    "main.fbfd1116.css.map": "/React-Movie-DB/static/css/main.fbfd1116.css.map",
+    "main.2b3eacf2.js.map": "/React-Movie-DB/static/js/main.2b3eacf2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fbfd1116.css",
+    "static/js/main.2b3eacf2.js"
+  ]
+}
