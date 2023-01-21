@@ -1,6 +1,6 @@
 {
   "name": "react-movie-db",
-  "homepage": "http://VishalMX3.github.io/React-Movie-DB",
+  
   "version": "0.1.0",
   "private": true,
   "dependencies": {
