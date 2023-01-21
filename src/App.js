@@ -4,7 +4,7 @@ import { NavBar, MovieList, Background } from "./components";
 import axios from 'axios';
 import './App.css';
 
-const API_BASE_URL = "http://www.omdbapi.com";
+const API_BASE_URL = "https://www.omdbapi.com";
 //api key = e3da3413
 function App() {
   const [inputValue, setInputValue] = useState("");
