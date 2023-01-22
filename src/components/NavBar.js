@@ -3,7 +3,7 @@ import React from 'react'
 import '../styles/navbar.css';
 
 export default function NavBar({setInputValue, inputValue, search}) {
-  console.log(inputValue);
+  // console.log(inputValue);
   return (
     <div className='navbar'>
         <span className='heading'>MOVIE-DB</span>
