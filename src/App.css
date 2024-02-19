@@ -1,8 +1,31 @@
 body {
- /* background-color: #253240; */
+  /* background-color: #253240; */
   color: #eee;
 }
 
-.main{
+.main {
   width: 100vw;
+  position: relative;
+  text-align: center;
+}
+
+.search-bar {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 10px 20px;
+  border: none;
+  border-radius: 20px;
+  outline: none;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  background-color: rgba(255, 255, 255, 0.7);
+  font-size: 16px;
+  width: 300px;
+  transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.search-bar:hover {
+  transform: translate(-50%, -50%) scale(1.05);
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.7);
 }
